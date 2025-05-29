@@ -7,7 +7,7 @@ Publication can be found at: https://www.mdpi.com/2075-4426/14/4/421
 
 ## Description
 
-This repository implements **Tri-COAT** (Tri-Modal Co-Attention Transformer), a multimodal deep learning framework for early-stage, progression-specific Alzheimer's disease subtyping. Tri-COAT explicitly fuses imaging (MRI-derived quantitative traits), genetic (SNP dosage, odds ratios, allele frequencies, chromosome embeddings), and clinical assessment data via a tri-modal co-attention mechanism to learn cross-modal feature interactions and provide interpretable predictions. On the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset, Tri-COAT achieves state-of-the-art classification AUROC while highlighting key biomarker associations :contentReference[oaicite:0]{index=0}.
+This repository implements **Tri-COAT** (Tri-Modal Co-Attention Transformer), a multimodal deep learning framework for early-stage, progression-specific Alzheimer's disease subtyping. Tri-COAT explicitly fuses imaging (MRI-derived quantitative traits), genetic (SNP dosage, odds ratios, allele frequencies, chromosome embeddings), and clinical assessment data via a tri-modal co-attention mechanism to learn cross-modal feature interactions and provide interpretable predictions. On the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset, Tri-COAT achieves state-of-the-art classification AUROC while highlighting key biomarker associations.
 
 ## Model Architecture
 
@@ -35,7 +35,7 @@ These branches are fused through our novel tri-modal co-attention mechanism that
    ```
 
 3. **Download and prepare the data**
-    Data can be downloaded from the [Alzheimer's Disease Neuroimaging Initiative (ADNI) repository](https://adni.loni.usc.edu/data-samples/accessing-adni-data/).
+    Data can be downloaded from the [Alzheimer's Disease Neuroimaging Initiative (ADNI) repository](https://adni.loni.usc.edu/data-samples/adni-data/).
 
     The data should be organized as follows:
     ```
