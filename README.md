@@ -31,7 +31,8 @@ These branches are fused through our novel tri-modal co-attention mechanism that
 
 2. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   conda env create -f tricoat.yml
+   conda activate tricoat
    ```
 
 3. **Download and prepare the data**
