@@ -1,8 +1,6 @@
 # Tricoat
 
-This repository contains the Tricoat project.  
-Public version under construction.
-
+This repository contains the code for the paper "Identifying Progression-Specific Alzheimer’s Subtypes Using Multimodal Transformer".  
 Publication can be found at: https://www.mdpi.com/2075-4426/14/4/421
 
 ## Description
